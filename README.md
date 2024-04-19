@@ -53,3 +53,9 @@ To build your project for production, run:
 ```bash
 npm run build
 ```
+
+This will generate an optimized production build in the `dist` directory.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](link-to-license) file for details.
