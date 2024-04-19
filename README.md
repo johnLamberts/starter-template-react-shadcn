@@ -16,7 +16,7 @@ This starter template provides a streamlined setup for building React applicatio
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/your-username/starter-template-react-shadcn.git <name_of_your_project_optional>
    ```
 
 2. **Navigate to the Project Directory**:
